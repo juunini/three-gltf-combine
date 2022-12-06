@@ -1,9 +1,24 @@
 {
+  "version": "0.0.2",
   "name": "three-gltf-combine",
-  "version": "0.0.1",
+  "description": "Combine GLTF/GLB parts",
+  "author": "juunini",
+  "license": "MIT",
+  "repository": "https://github.com/juunini/three-gltf-combine",
+  "homepage": "https://github.com/juunini/three-gltf-combine",
+  "main": "index.js",
   "module": "index.js",
-  "type": "module",
+  "types": "index.d.ts",
+  "keywords": [
+    "three",
+    "threejs",
+    "gltf",
+    "glb",
+    "combine",
+    "merge"
+  ],
   "devDependencies": {
-    "@types/three": "^0.146.0"
+    "@types/three": "^0.146.0",
+    "typescript": "^4.9.3"
   }
 }
