@@ -1,0 +1,9 @@
+{
+  "name": "three-gltf-combine",
+  "version": "0.0.1",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/three": "^0.146.0"
+  }
+}
